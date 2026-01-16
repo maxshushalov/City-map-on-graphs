@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>City Graph Visualizer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="controls">
+    <h2>Управление</h2>
+
+    <!-- РЕЖИМ 1: Поиск пути -->
+    <h3>Поиск пути</h3>
+    <label>Начало (start):</label>
+    <input type="number" id="startInput" min="0" max="47" value="0" placeholder="0">
+
+    <label>Конец (end):</label>
+    <input type="number" id="endInput" min="0" max="47" value="47" placeholder="47">
+
+    <button id="findPath">Найти кратчайший путь</button>
+    <button id="generateEvents">Сгенерировать события</button>
+
+
+    <hr style="margin: 20px 0;">
+
+    <!-- РЕЖИМ 2: Доставка -->
+    <h3>Режим доставки</h3>
+    <button id="deliveryMode">Показать склады и маршруты</button>
+    <button id="buildRoute">📍 Построить маршрут по текущим складам</button>
+    <button id="regenerateWarehouses">🔄 Перегенерировать склады</button>
+
+    <hr style="margin: 20px 0;">
+
+    <!-- Общее -->
+    <button id="loadGraph">Загрузить граф</button>
+    <button id="clearHighlight" style="background: #f44336;">Очистить подсветку</button>
+</div>
+
+<svg id="graphCanvas"></svg>
+
+<script src="app.js"></script>
+</body>
+</html>

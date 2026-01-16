@@ -1,0 +1,1684 @@
+{
+  "edges": [
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 0,
+      "quality": "good",
+      "time": 5.0,
+      "to": 8,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 0,
+      "quality": "good",
+      "time": 5.0,
+      "to": 1,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 1,
+      "quality": "good",
+      "time": 5.0,
+      "to": 2,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 1,
+      "quality": "good",
+      "time": 5.0,
+      "to": 9,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 1,
+      "quality": "good",
+      "time": 5.0,
+      "to": 0,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 2,
+      "quality": "good",
+      "time": 5.0,
+      "to": 10,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 2,
+      "quality": "good",
+      "time": 5.0,
+      "to": 3,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 3,
+      "quality": "good",
+      "time": 5.0,
+      "to": 11,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 3,
+      "quality": "good",
+      "time": 5.0,
+      "to": 2,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 4,
+      "quality": "good",
+      "time": 5.0,
+      "to": 3,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 4,
+      "quality": "good",
+      "time": 5.0,
+      "to": 5,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 4,
+      "quality": "good",
+      "time": 5.0,
+      "to": 12,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 5,
+      "quality": "good",
+      "time": 5.0,
+      "to": 6,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 5,
+      "quality": "good",
+      "time": 5.0,
+      "to": 4,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 6,
+      "quality": "good",
+      "time": 5.0,
+      "to": 5,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 6,
+      "quality": "good",
+      "time": 5.0,
+      "to": 14,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 6,
+      "quality": "good",
+      "time": 5.0,
+      "to": 7,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 7,
+      "quality": "good",
+      "time": 5.0,
+      "to": 15,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 7,
+      "quality": "good",
+      "time": 5.0,
+      "to": 6,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 8,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 16,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 8,
+      "quality": "good",
+      "time": 5.0,
+      "to": 0,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 8,
+      "quality": "good",
+      "time": 5.0,
+      "to": 9,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 9,
+      "quality": "good",
+      "time": 5.0,
+      "to": 17,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 9,
+      "quality": "good",
+      "time": 5.0,
+      "to": 10,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 9,
+      "quality": "good",
+      "time": 5.0,
+      "to": 8,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 9,
+      "quality": "good",
+      "time": 5.0,
+      "to": 1,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 10,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 2,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 10,
+      "quality": "good",
+      "time": 5.0,
+      "to": 9,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 10,
+      "quality": "good",
+      "time": 5.0,
+      "to": 11,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 10,
+      "quality": "good",
+      "time": 5.0,
+      "to": 18,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 11,
+      "quality": "good",
+      "time": 5.0,
+      "to": 10,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 11,
+      "quality": "good",
+      "time": 5.0,
+      "to": 12,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 11,
+      "quality": "good",
+      "time": 5.0,
+      "to": 19,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 12,
+      "quality": "good",
+      "time": 5.0,
+      "to": 11,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 12,
+      "quality": "good",
+      "time": 5.0,
+      "to": 13,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 12,
+      "quality": "good",
+      "time": 5.0,
+      "to": 4,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 12,
+      "quality": "good",
+      "time": 5.0,
+      "to": 20,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 13,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 12,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 14,
+      "quality": "good",
+      "time": 5.0,
+      "to": 13,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 14,
+      "quality": "good",
+      "time": 5.0,
+      "to": 22,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 14,
+      "quality": "good",
+      "time": 5.0,
+      "to": 6,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 14,
+      "quality": "good",
+      "time": 5.0,
+      "to": 15,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 15,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 7,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 15,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 23,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 16,
+      "quality": "good",
+      "time": 5.0,
+      "to": 24,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 16,
+      "quality": "good",
+      "time": 5.0,
+      "to": 8,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 17,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 18,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 17,
+      "quality": "good",
+      "time": 5.0,
+      "to": 16,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 17,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 25,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 18,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 19,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 18,
+      "quality": "good",
+      "time": 5.0,
+      "to": 26,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 18,
+      "quality": "good",
+      "time": 5.0,
+      "to": 17,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 18,
+      "quality": "good",
+      "time": 5.0,
+      "to": 10,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 19,
+      "quality": "good",
+      "time": 5.0,
+      "to": 20,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 19,
+      "quality": "good",
+      "time": 5.0,
+      "to": 18,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 19,
+      "quality": "good",
+      "time": 5.0,
+      "to": 27,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 20,
+      "quality": "good",
+      "time": 5.0,
+      "to": 28,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 20,
+      "quality": "good",
+      "time": 5.0,
+      "to": 19,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 20,
+      "quality": "good",
+      "time": 5.0,
+      "to": 21,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 20,
+      "quality": "good",
+      "time": 5.0,
+      "to": 12,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 21,
+      "quality": "good",
+      "time": 5.0,
+      "to": 22,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 21,
+      "quality": "good",
+      "time": 5.0,
+      "to": 29,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 21,
+      "quality": "good",
+      "time": 5.0,
+      "to": 20,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 21,
+      "quality": "good",
+      "time": 5.0,
+      "to": 13,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 22,
+      "quality": "good",
+      "time": 5.0,
+      "to": 30,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 22,
+      "quality": "good",
+      "time": 5.0,
+      "to": 14,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 22,
+      "quality": "good",
+      "time": 5.0,
+      "to": 21,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 22,
+      "quality": "good",
+      "time": 5.0,
+      "to": 23,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 23,
+      "quality": "good",
+      "time": 5.0,
+      "to": 22,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 23,
+      "quality": "good",
+      "time": 5.0,
+      "to": 31,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 23,
+      "quality": "good",
+      "time": 5.0,
+      "to": 15,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 24,
+      "quality": "good",
+      "time": 5.0,
+      "to": 32,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 24,
+      "quality": "good",
+      "time": 5.0,
+      "to": 25,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 24,
+      "quality": "good",
+      "time": 5.0,
+      "to": 16,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 25,
+      "quality": "good",
+      "time": 5.0,
+      "to": 26,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 25,
+      "quality": "good",
+      "time": 5.0,
+      "to": 17,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 26,
+      "quality": "good",
+      "time": 5.0,
+      "to": 25,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 26,
+      "quality": "good",
+      "time": 5.0,
+      "to": 34,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 26,
+      "quality": "good",
+      "time": 5.0,
+      "to": 27,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 27,
+      "quality": "good",
+      "time": 5.0,
+      "to": 28,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 27,
+      "quality": "good",
+      "time": 5.0,
+      "to": 26,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 27,
+      "quality": "good",
+      "time": 5.0,
+      "to": 19,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 27,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 35,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 28,
+      "quality": "good",
+      "time": 5.0,
+      "to": 36,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 28,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 20,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 28,
+      "quality": "good",
+      "time": 5.0,
+      "to": 29,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 28,
+      "quality": "good",
+      "time": 5.0,
+      "to": 27,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 29,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 28,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 29,
+      "quality": "good",
+      "time": 5.0,
+      "to": 37,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 29,
+      "quality": "good",
+      "time": 5.0,
+      "to": 21,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 29,
+      "quality": "good",
+      "time": 5.0,
+      "to": 30,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 30,
+      "quality": "good",
+      "time": 5.0,
+      "to": 38,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 30,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 29,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 30,
+      "quality": "good",
+      "time": 5.0,
+      "to": 31,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 31,
+      "quality": "good",
+      "time": 5.0,
+      "to": 23,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 31,
+      "quality": "good",
+      "time": 5.0,
+      "to": 30,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 32,
+      "quality": "good",
+      "time": 5.0,
+      "to": 40,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 32,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 24,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 33,
+      "quality": "good",
+      "time": 5.0,
+      "to": 25,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 33,
+      "quality": "good",
+      "time": 5.0,
+      "to": 34,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 33,
+      "quality": "good",
+      "time": 5.0,
+      "to": 41,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 33,
+      "quality": "good",
+      "time": 5.0,
+      "to": 32,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 34,
+      "quality": "good",
+      "time": 5.0,
+      "to": 33,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 34,
+      "quality": "good",
+      "time": 5.0,
+      "to": 42,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 34,
+      "quality": "good",
+      "time": 5.0,
+      "to": 35,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 35,
+      "quality": "good",
+      "time": 5.0,
+      "to": 34,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 35,
+      "quality": "good",
+      "time": 5.0,
+      "to": 27,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 35,
+      "quality": "good",
+      "time": 5.0,
+      "to": 36,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 35,
+      "quality": "good",
+      "time": 5.0,
+      "to": 43,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 36,
+      "quality": "good",
+      "time": 5.0,
+      "to": 37,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 36,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 28,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 36,
+      "quality": "good",
+      "time": 5.0,
+      "to": 44,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 36,
+      "quality": "good",
+      "time": 5.0,
+      "to": 35,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 37,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 45,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 37,
+      "quality": "good",
+      "time": 5.0,
+      "to": 38,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 37,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 36,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 37,
+      "quality": "good",
+      "time": 5.0,
+      "to": 29,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 38,
+      "quality": "good",
+      "time": 5.0,
+      "to": 30,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 38,
+      "quality": "good",
+      "time": 5.0,
+      "to": 39,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 38,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 37,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 38,
+      "quality": "good",
+      "time": 5.0,
+      "to": 46,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 39,
+      "quality": "good",
+      "time": 5.0,
+      "to": 47,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 39,
+      "quality": "good",
+      "time": 5.0,
+      "to": 38,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 39,
+      "quality": "good",
+      "time": 5.0,
+      "to": 31,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 40,
+      "quality": "good",
+      "time": 5.0,
+      "to": 32,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 40,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 41,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 41,
+      "quality": "good",
+      "time": 5.0,
+      "to": 40,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 41,
+      "quality": "good",
+      "time": 5.0,
+      "to": 33,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 41,
+      "quality": "good",
+      "time": 5.0,
+      "to": 42,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 42,
+      "quality": "good",
+      "time": 5.0,
+      "to": 41,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 43,
+      "quality": "good",
+      "time": 5.0,
+      "to": 35,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 43,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 44,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 43,
+      "quality": "good",
+      "time": 5.0,
+      "to": 42,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 44,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 43,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 44,
+      "quality": "bad",
+      "time": 5.0,
+      "to": 36,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 44,
+      "quality": "good",
+      "time": 5.0,
+      "to": 45,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 45,
+      "quality": "good",
+      "time": 5.0,
+      "to": 46,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 45,
+      "quality": "good",
+      "time": 5.0,
+      "to": 44,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "cost": 50.0,
+      "distance": 50.0,
+      "from": 46,
+      "quality": "good",
+      "time": 5.0,
+      "to": 47,
+      "trafficLevel": 1.0
+    }
+  ],
+  "vertices": [
+    {
+      "id": 0,
+      "name": "V0",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "id": 1,
+      "name": "V1",
+      "x": 150,
+      "y": 0
+    },
+    {
+      "id": 2,
+      "name": "V2",
+      "x": 300,
+      "y": 0
+    },
+    {
+      "id": 3,
+      "name": "V3",
+      "x": 450,
+      "y": 0
+    },
+    {
+      "id": 4,
+      "name": "V4",
+      "x": 600,
+      "y": 0
+    },
+    {
+      "id": 5,
+      "name": "V5",
+      "x": 750,
+      "y": 0
+    },
+    {
+      "id": 6,
+      "name": "V6",
+      "x": 900,
+      "y": 0
+    },
+    {
+      "id": 7,
+      "name": "V7",
+      "x": 1050,
+      "y": 0
+    },
+    {
+      "id": 8,
+      "name": "V8",
+      "x": 0,
+      "y": 150
+    },
+    {
+      "id": 9,
+      "name": "V9",
+      "x": 150,
+      "y": 150
+    },
+    {
+      "id": 10,
+      "name": "V10",
+      "x": 300,
+      "y": 150
+    },
+    {
+      "id": 11,
+      "name": "V11",
+      "x": 450,
+      "y": 150
+    },
+    {
+      "id": 12,
+      "name": "V12",
+      "x": 600,
+      "y": 150
+    },
+    {
+      "id": 13,
+      "name": "V13",
+      "x": 750,
+      "y": 150
+    },
+    {
+      "id": 14,
+      "name": "V14",
+      "x": 900,
+      "y": 150
+    },
+    {
+      "id": 15,
+      "name": "V15",
+      "x": 1050,
+      "y": 150
+    },
+    {
+      "id": 16,
+      "name": "V16",
+      "x": 0,
+      "y": 300
+    },
+    {
+      "id": 17,
+      "name": "V17",
+      "x": 150,
+      "y": 300
+    },
+    {
+      "id": 18,
+      "name": "V18",
+      "x": 300,
+      "y": 300
+    },
+    {
+      "id": 19,
+      "name": "V19",
+      "x": 450,
+      "y": 300
+    },
+    {
+      "id": 20,
+      "name": "V20",
+      "x": 600,
+      "y": 300
+    },
+    {
+      "id": 21,
+      "name": "V21",
+      "x": 750,
+      "y": 300
+    },
+    {
+      "id": 22,
+      "name": "V22",
+      "x": 900,
+      "y": 300
+    },
+    {
+      "id": 23,
+      "name": "V23",
+      "x": 1050,
+      "y": 300
+    },
+    {
+      "id": 24,
+      "name": "V24",
+      "x": 0,
+      "y": 450
+    },
+    {
+      "id": 25,
+      "name": "V25",
+      "x": 150,
+      "y": 450
+    },
+    {
+      "id": 26,
+      "name": "V26",
+      "x": 300,
+      "y": 450
+    },
+    {
+      "id": 27,
+      "name": "V27",
+      "x": 450,
+      "y": 450
+    },
+    {
+      "id": 28,
+      "name": "V28",
+      "x": 600,
+      "y": 450
+    },
+    {
+      "id": 29,
+      "name": "V29",
+      "x": 750,
+      "y": 450
+    },
+    {
+      "id": 30,
+      "name": "V30",
+      "x": 900,
+      "y": 450
+    },
+    {
+      "id": 31,
+      "name": "V31",
+      "x": 1050,
+      "y": 450
+    },
+    {
+      "id": 32,
+      "name": "V32",
+      "x": 0,
+      "y": 600
+    },
+    {
+      "id": 33,
+      "name": "V33",
+      "x": 150,
+      "y": 600
+    },
+    {
+      "id": 34,
+      "name": "V34",
+      "x": 300,
+      "y": 600
+    },
+    {
+      "id": 35,
+      "name": "V35",
+      "x": 450,
+      "y": 600
+    },
+    {
+      "id": 36,
+      "name": "V36",
+      "x": 600,
+      "y": 600
+    },
+    {
+      "id": 37,
+      "name": "V37",
+      "x": 750,
+      "y": 600
+    },
+    {
+      "id": 38,
+      "name": "V38",
+      "x": 900,
+      "y": 600
+    },
+    {
+      "id": 39,
+      "name": "V39",
+      "x": 1050,
+      "y": 600
+    },
+    {
+      "id": 40,
+      "name": "V40",
+      "x": 0,
+      "y": 750
+    },
+    {
+      "id": 41,
+      "name": "V41",
+      "x": 150,
+      "y": 750
+    },
+    {
+      "id": 42,
+      "name": "V42",
+      "x": 300,
+      "y": 750
+    },
+    {
+      "id": 43,
+      "name": "V43",
+      "x": 450,
+      "y": 750
+    },
+    {
+      "id": 44,
+      "name": "V44",
+      "x": 600,
+      "y": 750
+    },
+    {
+      "id": 45,
+      "name": "V45",
+      "x": 750,
+      "y": 750
+    },
+    {
+      "id": 46,
+      "name": "V46",
+      "x": 900,
+      "y": 750
+    },
+    {
+      "id": 47,
+      "name": "V47",
+      "x": 1050,
+      "y": 750
+    }
+  ]
+}

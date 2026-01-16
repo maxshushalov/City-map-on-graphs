@@ -1,0 +1,112 @@
+{
+  "deliveryWarehouses": [
+    25,
+    27,
+    36,
+    39
+  ],
+  "edges": [
+    {
+      "blocked": false,
+      "from": 0,
+      "quality": "good",
+      "to": 1,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 1,
+      "quality": "good",
+      "to": 9,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 9,
+      "quality": "good",
+      "to": 17,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 17,
+      "quality": "good",
+      "to": 18,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 18,
+      "quality": "bad",
+      "to": 26,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 26,
+      "quality": "good",
+      "to": 27,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 27,
+      "quality": "good",
+      "to": 28,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 28,
+      "quality": "good",
+      "to": 36,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 36,
+      "quality": "good",
+      "to": 44,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 44,
+      "quality": "good",
+      "to": 45,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 45,
+      "quality": "bad",
+      "to": 46,
+      "trafficLevel": 1.0
+    },
+    {
+      "blocked": false,
+      "from": 46,
+      "quality": "good",
+      "to": 47,
+      "trafficLevel": 1.0
+    }
+  ],
+  "found": true,
+  "mainWarehouse": 18,
+  "path": [
+    0,
+    1,
+    9,
+    17,
+    18,
+    26,
+    27,
+    28,
+    36,
+    44,
+    45,
+    46,
+    47
+  ],
+  "totalTime": 60.0
+}

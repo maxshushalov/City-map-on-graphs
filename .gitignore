@@ -1,0 +1,22 @@
+# Билд-файлы (не загружаем)
+cmake-build-debug/
+build/
+cmake-build-release/
+*.o
+*.exe
+*.out
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Генерируемые файлы проекта
+web/graph.json
+web/delivery.json
+.idea/
+.venv/
+*.iml
